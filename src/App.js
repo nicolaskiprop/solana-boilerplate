@@ -8,6 +8,7 @@ import {
   theme,
 } from "@chakra-ui/react";
 import { ColorModeSwitcher } from "./ColorModeSwitcher";
+import * as web3 '@solana/web3.js';
 
 function App() {
   return (
